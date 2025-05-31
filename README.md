@@ -6,11 +6,11 @@ Code and materials for ACDSA2025 paper on aligning university curricula with ECE
 This repository contains the code, data samples, and processing pipeline used in the ACDSA2025 research paper titled:  
 **"Using Natural Language Processing to Correlate University Curricula with Required Job Skills"**
 
-## 📄 Project Overview
+## Project Overview
 
 This study investigates how well the undergraduate curriculum in the Department of Electrical and Computer Engineering (DECE) at The University of the West Indies aligns with the evolving skill demands of the global job market. Using Natural Language Processing (NLP), we analyze course outlines and job descriptions to identify overlaps and gaps in required technical and soft skills.
 
-## 📊 Key Objectives
+## Key Objectives
 
 - Collect and process job descriptions across five ECE themes:
   - Communication Systems
