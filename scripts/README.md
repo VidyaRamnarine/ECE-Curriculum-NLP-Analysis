@@ -1,2 +1,2 @@
 # Scripts
-This folder contains Python scripts for scraping, preprocessing and skill extraction.
+This folder contains Python scripts for Web Scraping.
