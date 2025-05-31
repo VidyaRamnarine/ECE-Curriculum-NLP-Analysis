@@ -44,5 +44,5 @@ This study investigates how well the undergraduate curriculum in the Department 
   
 ## Reproducibility
 All scripts are included to reproduce the skill extraction and topic modeling process.  
-*Note: Full datasets available on request due to platform limitations.*
+
 
