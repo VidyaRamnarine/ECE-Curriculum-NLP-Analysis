@@ -28,9 +28,8 @@ This study investigates how well the undergraduate curriculum in the Department 
 ## Contents
 - Web scraping scripts
 - SkillNER skill extraction tool
-- LDA topic modeling pipeline
-- Sample job description dataset
-- Final paper (PDF)
+- LDA topic modeling and Closeness Metric
+
 
 ## Tools Used
 - Python 3.10
