@@ -32,7 +32,7 @@ This study investigates how well the undergraduate curriculum in the Department 
 
 
 ## Tools Used
-- Python 3.10
+- Python 3.12.7
 - Selenium, BeautifulSoup
 - SkillNER, spaCy, Gensim
   
